@@ -1,4 +1,7 @@
 # Discord-Welcomer-Bot
-A bot which welcomes new users that join your server.
+A Custom Discord bot which welcomes new users that join your server.
 
-## I'm too lazy to write this, I'll probably write this some time later.
+## How to Install.
+- npm i
+- node . / npm start
+
